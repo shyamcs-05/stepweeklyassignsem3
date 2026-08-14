@@ -26,3 +26,4 @@ public class ques1{
         seatchecker(seat);
     }
 }
+//shyamm
